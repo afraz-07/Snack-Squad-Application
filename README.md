@@ -35,4 +35,4 @@ The following are the functional and non-functional requirements of the Snack Or
 
 <h3>5. Conclusion:</h3>
 
-The Snack Ordering Application is an innovative and convenient solution for users to order snacks from their favorite vendors. The application will be developed using Java and Kotlin programming languages, and will follow a client-server architecture. The application will undergo extensive testing to ensure it meets all the requirements and is free of bugs and errors. The application is expected to be deployed within 4-6 months and will offer a modern and intuitive user interface with robust functionality.
+The Snack Ordering Application is an innovative and convenient solution for users to order snacks from their favorite vendors. The application will be developed using Java and Kotlin programming languages.
