@@ -134,13 +134,13 @@ fun LoginScreen(context: Context, databaseHelper: UserDatabaseHelper) {
                 )
             )}
             )
-            { Text(color = Color.White,text = "Sign up") }
+            { Text(color = Color.Black,text = "Sign up") }
             TextButton(onClick = {
             })
 
             {
                 Spacer(modifier = Modifier.width(60.dp))
-                Text(color = Color.White,text = "Forget password?")
+                Text(color = Color.Black,text = "Forget password?")
             }
         }
     }
